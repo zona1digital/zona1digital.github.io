@@ -682,25 +682,17 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-stFoXxRojI {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+#custom-html-u {
+  /* Type valid CSS here */
 }
-.cid-stFoXxRojI .row {
-  align-items: stretch;
-  justify-content: center;
+#custom-html-u div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
 }
-.cid-stFoXxRojI .row .img-item {
-  display: -webkit-flex;
-  flex-direction: column;
-  justify-content: center;
-  width: 100%;
-}
-.cid-stFoXxRojI .row .img-item img {
-  width: 100%;
-  object-fit: cover;
-  min-height: 1px;
+#custom-html-u p {
+  font-size: 60px;
+  color: #777;
 }
 .cid-stydFdrjC2 {
   padding-top: 2rem;
