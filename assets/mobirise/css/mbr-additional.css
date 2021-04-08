@@ -682,6 +682,22 @@ body {
 a {
   transition: color 0.6s;
 }
+.cid-su0Yii2gzk {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-su0Yii2gzk .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-su0Yii2gzk .row {
+  flex-direction: row-reverse;
+}
+.cid-su0Yii2gzk img {
+  width: 100%;
+}
 #custom-html-u {
   /* Type valid CSS here */
 }
