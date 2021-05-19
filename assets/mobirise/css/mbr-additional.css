@@ -747,7 +747,7 @@ a {
 }
 .cid-sxNBOJ1UNm .dropdown-menu,
 .cid-sxNBOJ1UNm .navbar.opened {
-  background: #00456d !important;
+  background: #bbbbbb !important;
 }
 .cid-sxNBOJ1UNm .nav-item:focus,
 .cid-sxNBOJ1UNm .nav-link:focus {
@@ -782,7 +782,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: absolute;
-  background: rgba(0, 69, 109, 0.6);
+  background: rgba(187, 187, 187, 0.3);
 }
 .cid-sxNBOJ1UNm .navbar.opened {
   transition: all 0.3s;
@@ -927,7 +927,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-sxNBOJ1UNm .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #00456d;
+  background: #bbbbbb;
 }
 .cid-sxNBOJ1UNm .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -958,7 +958,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-sxNBOJ1UNm button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
